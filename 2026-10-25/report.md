@@ -159,13 +159,13 @@ Disco是本期争议最大的公司：FY2025毛利率70.1%、营业利润率42.3
 
 ## 分报告文件
 
-- [nordson.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/nordson.md)
-- [graco.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/graco.md)
-- [spirax.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/spirax.md)
-- [halma.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/halma.md)
-- [entegris.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/entegris.md)
-- [cognex.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/cognex.md)
-- [agilent.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/agilent.md)
-- [idex.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/idex.md)
-- [disco.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/disco.md)
-- [west.md](sandbox://workspace/goals/goal/hidden_files/niche-leaders-daily-2026-10-25/west.md)
+- [nordson.md](./nordson.md)
+- [graco.md](./graco.md)
+- [spirax.md](./spirax.md)
+- [halma.md](./halma.md)
+- [entegris.md](./entegris.md)
+- [cognex.md](./cognex.md)
+- [agilent.md](./agilent.md)
+- [idex.md](./idex.md)
+- [disco.md](./disco.md)
+- [west.md](./west.md)

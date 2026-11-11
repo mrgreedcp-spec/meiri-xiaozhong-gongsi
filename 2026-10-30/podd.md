@@ -49,7 +49,7 @@ Insulet 只做一件事：**让打胰岛素的人不用每天扎针、不用拖�
 
 | 竞争者 | 产品 / 2025 体量 | 对 Insulet 的威胁 |
 |---|---|---|
-| **Medtronic / MiniMed（分拆上市在即，拟 NASDAQ: MMED）** | MiniMed 780G 有管泵＋Guardian / Abbott Instinct 传感器；糖尿病业务 FY2025 收入约 $2.76bn（+10.7%），Q4 FY25 $728m（有机 +12%）；2026-02 寻求 IPO 估值约 $7.86bn，拟发行 28m 股 $25～28 | 体量与 Insulet 相当、渠道与医生资源更深；780G 已获成人胰岛素依赖 2 型适应症＋Medicare 覆盖（2026-02），直接争夺 Insulet 正在开拓的 2 型市场；分拆后将成为专注的独立对手，而非集团内的小部门；MiniMed 还在报批 Flex 泵与 Fit 贴片泵（拟 2026 秋季报 FDA），**贴片形态的独占性可能被侵蚀** |
+| **Medtronic / MiniMed（已于 2026-03-05 在 NASDAQ 上市，代码 MMED）** | MiniMed 780G 有管泵＋Guardian / Abbott Instinct 传感器；糖尿病业务 FY2025 收入约 $2.76bn（+10.7%），Q4 FY25 $728m（有机 +12%）；2026-02 寻求 IPO 估值约 $7.86bn，拟发行 28m 股 $25～28 | 体量与 Insulet 相当、渠道与医生资源更深；780G 已获成人胰岛素依赖 2 型适应症＋Medicare 覆盖（2026-02），直接争夺 Insulet 正在开拓的 2 型市场；分拆后将成为专注的独立对手，而非集团内的小部门；MiniMed 还在报批 Flex 泵与 Fit 贴片泵（拟 2026 秋季报 FDA），**贴片形态的独占性可能被侵蚀** |
 | **Tandem Diabetes Care（NASDAQ: TNDM）** | t:slim X2（有管、可远程升级算法）＋小型 Tandem Mobi；2025 全球收入 $1.015bn，毛利率 54%，全年仍亏损（经营利润率约 -18.5%，第三方口径） | 算法 Control-IQ+ 已获 2 型成人适应症（2025），并与 Libre 3 Plus 整合、向药房渠道转型（Mobi 药房覆盖超 40% 美国参保人群，第三方转述）；T1D Exchange 注册数据（2025）显示 t:slim X2 仍是注册患者最常用泵，Omnipod 5 排第二——**存量用户心智并未被 Insulet 独占**；但 Tandem 盈利能力远弱于 Insulet（54% 毛利率 vs 72%＋），是“追赶者而非利润 equal” |
 | 其他（简述） | Beta Bionics iLet、Ypsomed、Sequel / Diabeloop 等互通式玩家；Dexcom（DXCM，2026-10-21 本日报已覆盖为 (b)）与 Abbott 是 CGM 伙伴而非泵对手 | 互通生态（泵＋任意 CGM）削弱封闭系统锁定；但这些玩家体量尚小，未改变三巨头格局 |
 
